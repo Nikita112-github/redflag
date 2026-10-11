@@ -1,0 +1,41 @@
+id,text,label,scam_type,source
+1,"Congratulations! You are selected for Data Entry at XYZ Technologies. Pay Rs 2,500 registration fee to confirm your seat. Fee is refundable in first salary.",1,advance_fee,synthetic
+2,"Hi, we have urgent openings for freshers. Salary 40,000 per month, work from home, no interview. Send Aadhaar and bank details to join today.",1,sensitive_data,synthetic
+3,"Your offer letter from ABC Solutions is attached. Pay Rs 5,000 as security deposit within 2 hours or your seat will be cancelled.",1,advance_fee,synthetic
+4,"Join our Telegram group Freshers Jobs 2026. Interview will be held on chat only. Message HR on WhatsApp to start.",1,chat_only,synthetic
+5,"You have been shortlisted without any application. Training fee Rs 3,000 required. Hurry, last chance!",1,no_interview,synthetic
+6,"Part-time job: like and review videos, earn Rs 5,000 per day. Send your UPI ID and OTP to receive the first payment.",1,sensitive_data,synthetic
+7,"Dear candidate, HR from PQR Infotech here (hr.pqrinfotech@gmail.com). Document verification charges Rs 1,800 must be paid today.",1,advance_fee,synthetic
+8,"Selected as Software Developer at 1 lakh per month for freshers. No experience needed. Pay Rs 4,000 for laptop kit and ID card.",1,unrealistic_pay,synthetic
+9,"Final call: your joining is confirmed. Transfer Rs 6,500 as background check fee. Offer letter will be sent after payment.",1,advance_fee,synthetic
+10,"Exclusive government job guaranteed. Pay application fee and exam fee now. 100 percent placement assured. bit.ly/jobseat",1,short_link,synthetic
+11,"We are hiring for work from home. Earn 30,000 weekly. Join WhatsApp group, no interview, immediate joining.",1,chat_only,synthetic
+12,"Your resume was selected from a job portal. To schedule your interview, pay Rs 999 interview scheduling fee.",1,advance_fee,synthetic
+13,"Congratulations on your selection at LMN Global. Share PAN card, Aadhaar photo and bank passbook for payroll setup before any interview.",1,sensitive_data,synthetic
+14,"Placement guarantee program. Pay Rs 12,000 course fee and we will place you in a top MNC within 30 days.",1,fake_agency,synthetic
+15,"URGENT: only 3 seats left. Pay registration charge in 1 hour. Salary 35,000 for 12th pass, no skills needed.",1,urgency,synthetic
+16,"Offer letter attached. Reply with your bank account number and OTP so we can verify your salary account today.",1,sensitive_data,synthetic
+17,"Hello, this is a recruiter from Global Hire Consultancy. Register with us for Rs 2,000 and we will arrange guaranteed jobs.",1,fake_agency,synthetic
+18,"You are selected for a Telegram task job. Complete tasks, earn commission daily. First deposit Rs 1,000 to activate your account.",1,advance_fee,synthetic
+19,"Dear applicant, your appointment letter is ready. Send Rs 7,500 as appointment letter issuing fee to collect it.",1,advance_fee,synthetic
+20,"Hiring freshers for customer support, 28,000 salary, joining in 2 days. No interview, only WhatsApp chat. Send documents now.",1,no_interview,synthetic
+21,"Earn from home 50,000 per month! Click tinyurl.com/earnnow and enter your card details to register.",1,short_link,synthetic
+22,"Your visa job offer abroad is confirmed. Pay Rs 80,000 processing fee. Salary 3 lakh per month, no experience.",1,unrealistic_pay,synthetic
+23,"Act now! Limited vacancies. Deposit Rs 3,500 to hold your position, refundable after joining. Contact only on Telegram.",1,advance_fee,synthetic
+24,"Congrats, you cleared the online test you never took. Pay Rs 2,200 exam result fee to download your offer.",1,no_interview,synthetic
+25,"Hi Nikita, thanks for applying for the Junior .NET Developer role at Acme Software Pvt Ltd. We would like to schedule a technical interview on Thursday at 11 AM via Google Meet. Please confirm your availability.",0,genuine,synthetic
+26,"Hello, your application for Data Analyst at Brightline Analytics has been received. Our HR team will contact you within 7 working days. No action is needed from your side.",0,genuine,synthetic
+27,"We are pleased to offer you the position of Software Engineer Trainee at Northwind Systems. Your CTC is 4.2 LPA. Please review the attached offer letter and reply by Friday. Joining details will follow after background verification, which the company conducts at its own cost.",0,genuine,synthetic
+28,"Hi, this is Priya from the talent team at Orbit Tech (priya@orbittech.example). We saw your profile and have an opening for React Developer, 0-2 years, Pune. Are you open to a quick call this week?",0,genuine,synthetic
+29,"Your interview round 2 is scheduled for Monday 10 AM at our Nagpur office. Please carry a photo ID and your resume. Reply to confirm.",0,genuine,synthetic
+30,"Thank you for attending the interview. We will share the outcome by next Wednesday. Regards, HR, Zenith Labs.",0,genuine,synthetic
+31,"Dear candidate, the written test link for the Associate Software Engineer role is below. The test takes 60 minutes and is free. Please complete it before Sunday.",0,genuine,synthetic
+32,"Hi, we are hiring Python Developers (1 to 3 years) at Kite Networks. CTC 6 to 9 LPA, hybrid in Hyderabad. Apply on our careers page. Please do not send money or documents over chat.",0,genuine,synthetic
+33,"Your joining date is 3 November. On day one, please bring original certificates for verification. The company does not charge any fee at any stage of hiring.",0,genuine,synthetic
+34,"We reviewed your application and unfortunately will not be moving forward. We will keep your resume for future roles.",0,genuine,synthetic
+35,"Hello, I am a recruiter at Meridian IT. Could you share your updated resume and notice period so I can share it with our client for a .NET role?",0,genuine,synthetic
+36,"Reminder: your HR discussion is tomorrow at 3 PM on Microsoft Teams. The meeting link is in your calendar invite from careers@lumenworks.example.",0,genuine,synthetic
+37,"Congratulations! After your interviews, we are happy to offer you the Full Stack Developer internship at Harbor Soft, stipend 15,000 per month for 6 months. Offer letter attached; please sign and return.",0,genuine,synthetic
+38,"Hi, Neha from Cobalt Systems. We have a walk-in drive for freshers on Saturday, 10 AM to 2 PM, at our Mumbai office. Bring your resume. Registration at venue is free.",0,genuine,synthetic
+39,"Your application for QA Analyst is under review. You may be asked to complete a short assignment. Do not share bank or ID details until you receive a formal offer.",0,genuine,synthetic
+40,"We are inviting you to a campus-style coding contest, free to participate. Top 10 candidates will be interviewed by our engineering team.",0,genuine,synthetic
