@@ -1,0 +1,6 @@
+@RedFlag.Api_HostAddress = http://localhost:5209
+
+GET {{RedFlag.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

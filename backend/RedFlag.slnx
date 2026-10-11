@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RedFlag.Api/RedFlag.Api.csproj" />
+  <Project Path="RedFlag.Core/RedFlag.Core.csproj" />
+  <Project Path="RedFlag.Infrastructure/RedFlag.Infrastructure.csproj" />
+  <Project Path="RedFlag.Tests/RedFlag.Tests.csproj" />
+</Solution>
