@@ -120,7 +120,7 @@ Fill with **your real results**. Do not report accuracy alone because the data i
 
 ## Roadmap
 
-- [ ] Week 1: API, database, JWT, rule engine with unit tests
+- [✔️ ] Week 1: API, database, JWT, rule engine with unit tests
 - [ ] Week 2: React UI and saved reports
 - [ ] Week 3: Telegram bot and Hangfire jobs
 - [ ] Week 4: Python ML service and fallback logic
