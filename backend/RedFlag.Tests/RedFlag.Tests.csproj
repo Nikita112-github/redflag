@@ -22,6 +22,7 @@
   <ItemGroup>
     <ProjectReference Include="..\RedFlag.Core\RedFlag.Core.csproj" />
     <ProjectReference Include="..\RedFlag.Infrastructure\RedFlag.Infrastructure.csproj" />
+    <ProjectReference Include="..\RedFlag.Api\RedFlag.Api.csproj" />
   </ItemGroup>
 
 </Project>

@@ -11,6 +11,7 @@ public class RedFlagDbContext : DbContext
 
     public DbSet<Report> Reports => Set<Report>();
     public DbSet<ReportFlag> ReportFlags => Set<ReportFlag>();
+    public DbSet<User> Users => Set<User>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -32,6 +33,14 @@ public class RedFlagDbContext : DbContext
             e.Property(x => x.RuleCode).HasMaxLength(50);
             e.Property(x => x.Explanation).HasMaxLength(300);
             e.HasIndex(x => x.RuleCode);
+        });
+
+        modelBuilder.Entity<User>(e =>
+        {
+            e.Property(x => x.Email).HasMaxLength(256).IsRequired();
+            e.Property(x => x.Role).HasMaxLength(20).IsRequired();
+            e.Property(x => x.PasswordHash).HasMaxLength(500).IsRequired();
+            e.HasIndex(x => x.Email).IsUnique();
         });
     }
 }
